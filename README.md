@@ -44,7 +44,7 @@
 
   <!-- Squarespace -->
   <a href="https://squarespace.com/" target="_blank" rel="noreferrer">
-    <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/70aaf7f7-1498-49e1-aab1-5273dfedece3" />
+    <img width="40" height="40" alt="squarespace" src="https://github.com/user-attachments/assets/70aaf7f7-1498-49e1-aab1-5273dfedece3" />
   </a>
 </p>
 
