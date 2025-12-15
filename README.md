@@ -48,5 +48,5 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamasadiq-26&show_icons=true&locale=en&layout=compact" alt="usamasadiq-26" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaSadiq-26&show_icons=true&locale=en&layout=compact" alt="usamaSadiq-26" /></p>
 
