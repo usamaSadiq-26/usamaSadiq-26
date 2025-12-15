@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://thedevusama.infy.uk/](https://thedevusama.infy.uk/)
 
-- 📝 I regularly write articles on [Tech innovations](Tech innovations)
+- 📝 I regularly write articles on **Tech innovations**
 
 - 💬 Ask me about **CMS/Website Development**
 
