@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaSadiq-26&label=Profile%20views&color=0e75b6&style=flat" alt="usamaSadiq-26" /> </p>
-# About Me:
+
+## About Me:
 I’m currently working on Hoopoe Studios<br><br>I’m currently learning Reactjs<br><br>I’m looking to collaborate on Custom Coding Projects<br><br>All of my projects are available at https://thedevusama.infy.uk/<br><br>I regularly write articles on Tech innovations<br><br>Ask me about CMS/Website Development
 
 
