@@ -1,9 +1,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaSadiq-26&label=Profile%20views&color=FABD2F&style=flat" alt="usamaSadiq-26" /> </p>
 
 ## About Me:
-Hi, I'm Usama Sadiq — a technology professional and MSc Data Science student at Cardiff Metropolitan University, UK, with a professional background in web development, content management systems, and digital solutions.
+Hi, I'm Usama Sadiq, a technology professional and MSc Data Science student at Cardiff Metropolitan University, UK, with a professional background in web development, content management systems, and digital solutions.
 
 My journey in technology began with building and optimising websites, integrating third-party systems, and working with digital platforms. I am now expanding my expertise into Data Science, Data Analytics, and Machine Learning, with a focus on transforming data into meaningful insights and practical solutions.
+
+## Technical Interests
+
+Data Science: Python, SQL, Data Analysis, Machine Learning, Data Visualisation
+Web Development: WordPress, HTML5, CSS3, JavaScript, Elementor, WooCommerce
+Other Interests: API Integrations, Website Analytics, Performance Optimisation, Business Intelligence
+
+## Collaboration
+
+I'm interested in collaborating on data science projects, analytical solutions, web technologies, and innovative projects that solve real-world problems.
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/usama.sadiq.907112) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the._.usamasadiq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/theusamasadiq) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thedevusama) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theusamasadiq@gmail.com) 
